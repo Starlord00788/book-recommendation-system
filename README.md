@@ -3,7 +3,7 @@
 A hybrid recommendation system built on the **Book-Crossing dataset** (270K books, 1M+ ratings).
 Combines content-based filtering and collaborative filtering to solve both the similarity and personalisation problems.
 
-**Live Demo:** [Deploy link here after Streamlit Cloud deploy]
+**Live Demo:** https://book-recommendation-system-palash.streamlit.app/
 
 ---
 
